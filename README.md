@@ -35,9 +35,4 @@ This is done by executing the commands in a .sql file called 'cs425_fifa_fa24_db
 <h3>Running the Program</h3>
 Run the main.py file and the program should start. 
 
-<h3>Loom Video Recording</h3>
-
-A demo video recording can be watched at this link: 
-https://www.loom.com/share/df93b427e3004b8f8198ffc7927842d8?sid=d81e9aa4-c4e2-4195-9e9a-5a2af2b9eecf
-
 We hope you enjoy!
